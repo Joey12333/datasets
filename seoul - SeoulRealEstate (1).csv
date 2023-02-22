@@ -1,4 +1,4 @@
-id,lat,lng,households,buildDate,score,m2,p,min_sales,max_sales,avg_sales
+id,lat,lng,households,buildDate,score,m2,p,min_sales(1k),max_sales(1k),avg_sales(1k)
 2766,37.68160372,127.0565917,492,200006,4.3,139,42,60100,62000,61000
 5860,37.6792898,127.0570207,468,200105,4.1,105,32,48600,52200,51000
 15564,37.67688187,127.0580753,57,200502,4.8,86,26,36000,46000,40500
